@@ -1,0 +1,2 @@
+Campo 1: 'https://www.coindesk.com/libras-long-road-from-a-facebook-lab-to-the-global-stage-a-timeline'
+Campo 1: 'https://es.wikipedia.org/wiki/Libra_(criptomoneda)'
